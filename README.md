@@ -9,7 +9,7 @@ CMD Bypass Method Analysis is a PowerShell script that automatically tests CMD b
 To run the PowerShell script, open a PowerShell session.
 Add the script file to the PowerShell session or run it directly:
 
-* .\cmd_bypass_analysis.ps1
+* .\Cmd_Bypass_Score_Card.ps1
 
 When the script is run, CMD automatically tests the bypass methods and evaluates the results.
 The results are saved in the output.txt file.
